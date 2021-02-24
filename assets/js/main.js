@@ -13,7 +13,7 @@ const suspectsArr = [
     age: 32,
     job: "Electrician",
     image: "",
-    color: "",
+    color: "red",
   },
   {
     vorname: "Steffen",
